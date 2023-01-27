@@ -1,5 +1,5 @@
 # Spatio-Temporal Prediction Using Deep Neural Networks
-## 딥러닝을 활용한 시공간 데이터 예측
+### 딥러닝을 활용한 시공간 데이터 예측
 
 
 - 08 / 2023
@@ -39,6 +39,21 @@ As the covariates, observations were used at the same time as the observed PM2.5
 
 Since it needs GPUs to perform 25 tests, the test was conducted under 1xNVIDIA-TESLA-V100 GPU environment of Google Cloud Platform (GCP, https://cloud.google.com). In practical application situations, we applied the Dropout method (Srivastava et al., 2014) which can reduce overfitting, and the Batch Normalization method (Ioffe et al., 2015) which can stabilize the model. In addition, considering that spatio-temporal kriging can be done comfortably in the package of the R environment, the traditional spatio-temporal kriging method is compared using the same dataset in the R environment. 
 
+
+
+
+
+
+
+
+
+
+---
+
+## Main Reference
+
+1. Wikle CK, Zammit-Mangion A, Cressie N. (2019). Spatio-temporal statistics with R. Chapman and Hall/CRC Press
+2. Chen W, Li Y, Reich BJ, Sun Y. (2021). DeepKriging: Spatially dependent deep neural networks for spatial prediction. arXiv preprint arXiv:2007.11972
 
 
 
