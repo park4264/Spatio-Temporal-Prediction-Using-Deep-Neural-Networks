@@ -10,8 +10,7 @@
 
 
 ## Abstract
-Kriging provides the Best Linear Unbiased Predictor (BLUP) under Gaussian, stationary assumption of the statistical spatio-temporal model. This is a method of interpolation used to predict data with spatio-temporal dependence. However, for complex data that do not satisfy the assumptions, Kriging is no longer optimal. Nowadays, Deep learning using Deep neural networks (DNNs) is being used in many fields. Deep feedforward networks can be used for regression, so I proposed a novel Kriging method using DNN structure in this study. This method may learn more complex spatio-temporal dependencies. Next, I study the traditional Kriging and my method in terms of statistical learning theory. Finally, I apply my method to real-life korea fine dust data to evaluate the performance. Here, the K-fold Cross Validation method for spatio-temporal data is used.
-
+Kriging provides the Best Linear Unbiased Predictor (BLUP) for a spatial data or spatio-temporal data. This is a method of interpolation used to predict spatial process or spatio-temporal process at unobserved locations. However, for complex data, Kriging, the linear predictor, may not be optimal. Nowadays, Deep learning using Deep neural networks (DNNs) is being used in many fields. Deep feedforward networks can be used for regression, so I propose a novel prediction method using DNN structure in this study. This method may learn more complex spatio-temporal dependencies. Next, I study the traditional Kriging and my method in terms of statistical learning theory. Finally, I apply my method to Korea fine dust data to evaluate the performance. Here, the K-fold Cross Validation method for spatio-temporal data is used.
 - **Keywords**: Spatio-temporal data, Kriging, Deep learning, Deep Neural Networks, Deep feedforward networks, Statistical learning theory
 
 ## Visualization of DNN Structure
