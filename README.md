@@ -1,7 +1,7 @@
 # Spatio-Temporal Prediction Using Deep Neural Networks
 ### 딥러닝을 활용한 시공간 데이터 예측
 
-- [[pdf]](https://github.com/park4264/Spatio-Temporal-Prediction-Using-Deep-Neural-Networks/blob/main/Spatio-Temporal%20Prediction%20Using%20Deep%20Neural%20Networks.pdf)
+- [[pdf]](https://github.com/park4264/Spatio-Temporal-Prediction-Using-Deep-Neural-Networks/blob/main/__Spatio_Temporal_Prediction_Using_Deep_Neural_Networks__ver_5_.pdf)
 - [[python code]](https://github.com/park4264/Spatio-Temporal-Prediction-Using-Deep-Neural-Networks/blob/main/20220201_Application.ipynb)
 - 08 / 2023
 - Park Tae Jun
